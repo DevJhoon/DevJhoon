@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oiaojhon/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatas-de-souza-silva-9a0624272/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjhoon&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjhoon&show_icons=true&theme=dark&locale=pt-br)
 
 ## Tecnologias que eu uso no meu dia
 
