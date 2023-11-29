@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatas-de-souza-silva-9a0624272/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjhoon&show_icons=true&theme=dark&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjhoon&layout=compact&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjhoon&theme=dark&locale=pt-br)
 
 ## Tecnologias que eu uso no meu dia
 
